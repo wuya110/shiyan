@@ -1,0 +1,166 @@
+   "tag": "🇫🇷 法国 法兰西岛 AS12876 SCALEWAY S.A.S.",
+      "type": "hysteria2",
+      "server": "62.210.103.0",
+      "server_port": 22483,
+      "password": "dongtaiwang.com",
+      "up_mbps": 10,
+      "down_mbps": 100,
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true,
+        "alpn": [
+          "h3"
+        ]
+      }
+    },
+    {
+      "tag": "🇺🇸 美国 加州 AS63018 Dedicated.com",
+      "type": "hysteria2",
+      "server": "64.110.25.11",
+      "server_port": 33337,
+      "password": "dongtaiwang.com",
+      "up_mbps": 10,
+      "down_mbps": 100,
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true,
+        "alpn": [
+          "h3"
+        ]
+      }
+    },
+    {
+      "tag": "🇫🇷 法国 法兰西岛 AS12876 SCALEWAY S.A.S. 2",
+      "type": "hysteria2",
+      "server": "51.159.77.198",
+      "server_port": 29277,
+      "password": "dongtaiwang.com",
+      "up_mbps": 10,
+      "down_mbps": 100,
+      "tls": {
+        "enabled": true,
+        "server_name": "www.bing.com",
+        "insecure": true,
+        "alpn": [
+          "h3"
+        ]
+      }
+    },
+    {
+      "tag": "🇺🇸 美国 加州 AS63018 Dedicated.com 3",
+      "type": "hysteria",
+      "server": "167.160.91.115",
+      "server_port": 41189,
+      "up_mbps": 11,
+      "down_mbps": 55,
+      "auth_str": "bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF",
+      "tls": {
+        "enabled": true,
+        "server_name": "www.amazon.cn",
+        "alpn": [
+          "h3"
+        ],
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇫🇷 法国 法兰西岛 AS12876 SCALEWAY S.A.S. 4",
+      "type": "hysteria",
+      "server": "51.158.54.46",
+      "server_port": 55396,
+      "up_mbps": 11,
+      "down_mbps": 55,
+      "auth_str": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "youku.com",
+        "alpn": [
+          "h3"
+        ],
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇺🇸 美国 弗吉尼亚州 AS15169 Google LLC",
+      "type": "hysteria",
+      "server": "www.dtku40.xyz",
+      "server_port": 18490,
+      "up_mbps": 11,
+      "down_mbps": 55,
+      "auth_str": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "bing.com",
+        "alpn": [
+          "h3"
+        ],
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇺🇸 美国 加州 AS63018 Dedicated.com 5",
+      "type": "hysteria",
+      "server": "173.234.25.52",
+      "server_port": 48919,
+      "up_mbps": 11,
+      "down_mbps": 55,
+      "auth_str": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "bing.com",
+        "alpn": [
+          "h3"
+        ],
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇺🇸 美国 加州 AS63018 Dedicated.com 6",
+      "type": "hysteria",
+      "server": "173.234.25.52",
+      "server_port": 30072,
+      "up_mbps": 11,
+      "down_mbps": 55,
+      "auth_str": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "bing.com",
+        "alpn": [
+          "h3"
+        ],
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇹🇼 台湾 台北市 AS3462 Data Communication Business Group",
+      "type": "hysteria",
+      "server": "www.dtku50.xyz",
+      "server_port": 11229,
+      "up_mbps": 11,
+      "down_mbps": 55,
+      "auth_str": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "bing.com",
+        "alpn": [
+          "h3"
+        ],
+        "insecure": true
+      }
+    },
+    {
+      "tag": "🇹🇼 台湾 台北市 AS3462 Data Communication Business Group 7",
+      "type": "hysteria",
+      "server": "www2.dtku48.xyz",
+      "server_port": 22334,
+      "up_mbps": 11,
+      "down_mbps": 55,
+      "auth_str": "dongtaiwang.com",
+      "tls": {
+        "enabled": true,
+        "server_name": "bing.com",
+        "alpn": [
+          "h3"
+        ],
