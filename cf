@@ -15,3 +15,4 @@ vless://f72028de-f243-42d9-97a7-148daac32de3@time.cloudflare.com:80?encryption=n
 vless://f72028de-f243-42d9-97a7-148daac32de3@time.is:80?encryption=none&security=none&fp=randomized&type=ws&host=3.wuya110.icu&path=%2F%3Fed%3D2048#美国10
 vless://f72028de-f243-42d9-97a7-148daac32de3@whatismyipaddress.com:80?encryption=none&security=none&fp=randomized&type=ws&host=3.wuya110.icu&path=%2F%3Fed%3D2048#美国11
 vless://f72028de-f243-42d9-97a7-148daac32de3@www.4chan.org:80?encryption=none&security=none&fp=randomized&type=ws&host=3.wuya110.icu&path=%2F%3Fed%3D2048#美国12
+hysteria2://6ab0a64c-95e0-11ef-9eb0-3cecef0f513e@31.186.87.211:35549/?sni=www.bing.com&alpn=h3&insecure=1#新加坡
